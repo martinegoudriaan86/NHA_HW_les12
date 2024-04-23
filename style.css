@@ -1,0 +1,38 @@
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    width: 25%;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#cel1-1, #cel2-1, #cel3-1, #cel4-1,
+#cel1-3, #cel2-3, #cel3-3, #cel4-3 {
+    font-weight: bold;
+}
+
+/* Unique background colors for each cell */
+#cel1-1 { background-color: #f1c40f; }
+#cel1-2 { background-color: #e74c3c; }
+#cel1-3 { background-color: #2ecc71; }
+#cel1-4 { background-color: #3498db; }
+
+#cel2-1 { background-color: #9b59b6; }
+#cel2-2 { background-color: #34495e; }
+#cel2-3 { background-color: #16a085; }
+#cel2-4 { background-color: #f39c12; }
+
+#cel3-1 { background-color: #d35400; }
+#cel3-2 { background-color: #c0392b; }
+#cel3-3 { background-color: #27ae60; }
+#cel3-4 { background-color: #2980b9; }
+
+#cel4-1 { background-color: #8e44ad; }
+#cel4-2 { background-color: #2c3e50; }
+#cel4-3 { background-color: #f1c40f; }
+#cel4-4 { background-color: #e74c3c; }
